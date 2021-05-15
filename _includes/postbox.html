@@ -1,0 +1,22 @@
+<!-- begin post -->
+{% assign author = site.authors[post.author] %}
+<div class="col-sm-12">
+  <div class="card h-100 border-0">
+    <div class="card-body">
+      <div class="row">
+        <div class="col-sm-8">
+          <h5 class="card-title"><a class="text-dark" href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h5>
+          <h6 class="card-text">{{ post.excerpt | strip_html | truncatewords:30 }}</h6>
+          <a href="{{ site.baseurl }}{{ post.url }}" class="btn btn-primary btn-sm btn-rounded" role="button">Read more</a>
+          <span class="badge badge-warning">{{ post.date | date_to_string }}
+          </span>
+        </div>
+        <div class="col-sm-4">
+          <img class="img-fluid" src="{% if post.image contains "://" %}{{ post.image }}{% else %}{{ site.baseurl }}/{{ post.image }}{% endif %}" alt="{{ post.title }}" style="width:100%">
+        </div>
+      </div>
+    </div>
+  </div>
+</div><br>
+
+<!-- end post -->
