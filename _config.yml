@@ -1,10 +1,10 @@
 # Site
-name: 'Genesis'
-description: 'Genesis is a free jekyll theme'
+name: 'Tekscraper'
+description: 'Tekscraper is a free jekyll theme'
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
-# baseurl: '/Genesis'
-baseurl: /
+baseurl: '/tekscraper.github.io'
+# baseurl: /
 disqus: 'Genesis'
 email: '#'
 mailchimp-list: 'https://github.us10.list-manage.com/subscribe/post?u=145fd0db654a848f2210027e9&amp;id=9f918ad6cc'
@@ -22,7 +22,7 @@ authors:
     prince:
       name:           prince
       site:           #
-      avatar:         /assets/images/avatar.png
+      avatar:         /assets/images/avatar.jpg
       bio:            "Hi, I am Prince, the author of Genesis, the theme you're currently previewing. I hope you like it!"
       email:          #
       twitter:        #
@@ -36,7 +36,7 @@ defaults:
   values:
     layout: post
     author: prince
-    avatar: /assets/images/avatar.png
+    avatar: /assets/images/avatar.jpg
     
 # all pages
 - scope:
