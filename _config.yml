@@ -3,8 +3,8 @@ name: 'Tekscraper'
 description: 'Tekscraper is a free jekyll theme'
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
-baseurl: '/tekscraper.github.io'
-# baseurl: /
+# baseurl: '/tekscraper.github.io'
+baseurl: /
 disqus: 'Genesis'
 email: '#'
 mailchimp-list: 'https://github.us10.list-manage.com/subscribe/post?u=145fd0db654a848f2210027e9&amp;id=9f918ad6cc'
