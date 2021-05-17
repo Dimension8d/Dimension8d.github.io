@@ -1,9 +1,9 @@
 # Site
-name: 'Tekscraper'
-description: 'Tekscraper is a free jekyll theme'
+name: 'Techscraper'
+description: 'Techscraper is a free jekyll theme'
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
-# baseurl: '/tekscraper.github.io'
+# baseurl: /tekscraper.github.io
 baseurl: /
 disqus: 'Genesis'
 email: '#'
@@ -22,7 +22,7 @@ authors:
     prince:
       name:           prince
       site:           #
-      avatar:         /assets/images/avatar.jpg
+      avatar:         assets/images/avatar.jpg
       bio:            "Hi, I am Prince, the author of Genesis, the theme you're currently previewing. I hope you like it!"
       email:          #
       twitter:        #
