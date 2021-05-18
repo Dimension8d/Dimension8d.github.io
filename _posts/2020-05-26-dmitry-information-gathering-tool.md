@@ -5,7 +5,7 @@ author: prince
 categories: [ Kali ]
 comments: True
 image: assets/images/tech.jpeg
-tags: [sticky]
+tags: [featured]
 ---
 Networking got bunch of advanced information gathering tools like nmap. But yet dmitry satisfies some criteria that forms foundation of information gathering.
 
