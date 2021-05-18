@@ -1,9 +1,9 @@
 # Site
-name: 'Techscraper'
-description: 'Techscraper is a free jekyll theme'
+name: 'Genezis'
+description: 'Genezis is a free jekyll theme'
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
-# baseurl: /tekscraper.github.io
+# baseurl: /genezis.github.io
 baseurl: /
 disqus: 'Genesis'
 email: '#'
