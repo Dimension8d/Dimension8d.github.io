@@ -5,7 +5,7 @@ author: prince
 categories: [ python ]
 comments: True
 image: assets/images/python-django.png
-tags: [featured]
+tags: [sticky]
 ---
 
 <!-- wp:paragraph -->

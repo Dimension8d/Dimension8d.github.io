@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Dmitry - Information Gathering Tool"
-author: prince
+author: grim
 categories: [ Kali ]
 comments: True
 image: assets/images/tech.jpeg

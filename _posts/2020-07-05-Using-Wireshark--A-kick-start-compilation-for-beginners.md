@@ -1,11 +1,10 @@
 ---
 layout: post
 title:  "Using Wireshark - A kick start for beginners "
-author: prince
+author: grim
 categories: [ Kali , Penetration]
 comments: True
 image: assets/images/Wire.jpg
-tags: [featured]
 ---
 
 Wireshark proved to be one of most powerful network package capturing and analysis tool. Download is pretty much easy and given the link [here](https://www.wireshark.org/download.html). Once you fire up Wireshark it'll look like this,

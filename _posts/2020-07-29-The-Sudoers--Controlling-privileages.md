@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The Sudoers - Controlling privileages"
-author: prince
+author: grim
 categories: [ Linux , tips & tricks ]
 comments: True
 image: assets/images/sudo.jpg

@@ -5,7 +5,6 @@ author: prince
 categories: [ Docker, DevOps ]
 comments: True
 image: assets/images/docker222.png
-tags: [featured]
 ---
 <!-- wp:heading -->
 <h2>  Top 10 must know docker commands </h2>

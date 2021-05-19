@@ -5,7 +5,6 @@ author: prince
 categories: [ EDI ]
 comments: True
 image: assets/images/EDI-1.png
-tags: [featured]
 ---
 
 <!-- wp:paragraph -->

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Decorators in Python"
-author: prince
+author: grim
 categories: [ Python ]
 comments: True
 image: assets/images/decs2.jpeg

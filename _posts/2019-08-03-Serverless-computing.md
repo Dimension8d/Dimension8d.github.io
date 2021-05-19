@@ -5,7 +5,6 @@ author: prince
 categories: [ DevOps ]
 comments: True
 image: assets/images/serverless-computing.png
-tags: [featured]
 ---
 
 <!-- wp:paragraph -->

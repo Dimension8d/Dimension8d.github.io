@@ -5,7 +5,6 @@ author: prince
 categories: [ Tips & Tricks ]
 comments: True
 image: assets/images/matrix.jpeg
-tags: [featured]
 ---
 
 You can create the Matrix Effect on your 

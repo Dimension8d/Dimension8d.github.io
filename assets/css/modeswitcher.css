@@ -105,6 +105,7 @@ a.text-dark:hover, a.text-dark:focus {
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  padding-top: 15px;
 }
 .themecontainer h1 {
   color: var(--font-color);
