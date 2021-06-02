@@ -1,11 +1,12 @@
 # Site
 name: 'Genezis'
-description: 'Genezis is a free jekyll theme'
+description: 'Lets Learn and Explore together'
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 # baseurl: /genezis.github.io
 baseurl: /
 disqus: 'Genesis'
+google_analytics: 'UA-198499883-1'
 email: '#'
 mailchimp-list: 'https://github.us10.list-manage.com/subscribe/post?u=145fd0db654a848f2210027e9&amp;id=9f918ad6cc'
 include: ["_pages"]
