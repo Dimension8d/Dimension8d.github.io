@@ -23,10 +23,10 @@ authors:
     prince:
       name:           prince
       site:           #
-      avatar:         assets/images/avatar.jpg
-      bio:            "Hi, I am Prince, the author of Genesis, the theme you're currently previewing. I hope you like it!"
+      avatar:         assets/images/x-logo.jpg
+      bio:            "Author of Genezis. A technical consultant with experience in computer logics, design and development."
       email:          #
-      twitter:        #
+      twitter:        https://twitter.com/prince_9210
     
     grim:
       name:           grim
