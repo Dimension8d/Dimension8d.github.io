@@ -8,7 +8,7 @@ baseurl: /
 disqus: 'Genesis'
 google_analytics: 'UA-198499883-1'
 email: '#'
-mailchimp-list: 'https://github.us10.list-manage.com/subscribe/post?u=145fd0db654a848f2210027e9&amp;id=9f918ad6cc'
+mailchimp-list: 'https://github.us6.list-manage.com/subscribe?u=8968330d921f8f86e879f6399&id=cbe61468cd'
 include: ["_pages"]
 permalink: /:title/
 
