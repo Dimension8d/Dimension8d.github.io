@@ -5,7 +5,7 @@ author: prince
 categories: [ Python ]
 comments: True
 image: assets/images/Telegram.png
-tags: [featured]
+tags: [sticky]
 ---
 
 Telegram bots are simply  accounts operated by software – not people. They will be coded with AI intelligence, so that they can do anything like teach, play, search, broadcast, remind, connect, integrate with other services, or even pass commands to the Internet of Things.

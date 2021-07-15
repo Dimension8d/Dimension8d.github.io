@@ -5,7 +5,6 @@ author: prince
 categories: [ Kali, DevOps ]
 comments: True
 image: assets/images/postman4.png
-tags: [featured]
 ---
 
 Postman is the Google chrome app for interacting with HTTP APIs. It give a user friendly interactive environment for creating request and reading responses.

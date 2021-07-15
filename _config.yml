@@ -27,6 +27,14 @@ authors:
       email:          #
       twitter:        #
 
+    grim:
+      name:           grim
+      site:           #
+      avatar:         assets/images/grim.png
+      bio:            "Hi, I am Grim, the author of Genesis!"
+      email:          #
+      twitter:        #
+
 # Defaults
 defaults:
 

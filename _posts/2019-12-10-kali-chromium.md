@@ -5,7 +5,6 @@ author: prince
 categories: [ Kali ]
 comments: True
 image: assets/images/kali-chromium.jpg
-tags: [featured]
 ---
 
 <!-- wp:paragraph -->

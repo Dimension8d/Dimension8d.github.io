@@ -5,7 +5,6 @@ author: prince
 categories: [ Docker, DevOps ]
 comments: True
 image: assets/images/Docker-machine-1.jpg
-tags: [featured]
 ---
 
 <!-- wp:paragraph -->
