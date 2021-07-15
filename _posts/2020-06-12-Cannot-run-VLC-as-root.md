@@ -1,11 +1,10 @@
 ---
 layout: post
 title:  "Troubleshoot-Cannot run VLC as root"
-author: prince
+author: grim
 categories: [ Kali ]
 comments: True
 image: assets/images/casette.jpeg
-tags: [featured]
 ---
 
 After fresh installation or upgrade of existing versions, Vlc might not open. On trying the best with terminal, if you have received traces like `Cannot run vlc as root` this post could solve your problem.

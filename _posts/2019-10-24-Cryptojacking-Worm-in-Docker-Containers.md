@@ -5,7 +5,6 @@ author: prince
 categories: [ Docker, DevOps ]
 comments: True
 image: assets/images/crypto-docker-attack.png
-tags: [featured]
 ---
 
 A new [cryptojacking worm](https://www.malwarebytes.com/cryptojacking/), named Graboid, has been spread into more than 2,000 Docker hosts, according to the [Unit 42](https://unit42.paloaltonetworks.com/) researchers from Palo Alto Networks. This is the first time such a piece of malware has spread via containers within the Docker Engine (specifically docker-ce).

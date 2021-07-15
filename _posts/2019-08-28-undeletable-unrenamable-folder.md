@@ -5,7 +5,6 @@ author: prince
 categories: [ Tips & Tricks  ]
 comments: True
 image: assets/images/folder.jpg
-tags: [featured]
 ---
 
 <!-- wp:paragraph -->

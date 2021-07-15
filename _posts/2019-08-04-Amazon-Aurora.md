@@ -5,7 +5,6 @@ author: prince
 categories: [ AWS, DevOps ]
 comments: True
 image: assets/images/Database.jpg
-tags: [featured]
 ---
 
 Amazon Aurora is a MySQL-compatible relational database engine  that combines the speed and availability of high-end commercial databases with the simplicity and cost-effectiveness of open-source databases. Amazon Aurora provides up to five times better performance than MySQL with the security, availability, and reliability of a commercial database at one tenth the cost. 

@@ -1,13 +1,14 @@
 # Site
 name: 'Genezis'
-description: 'Genezis is a free jekyll theme'
+description: 'Lets Learn and Explore together'
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 # baseurl: /genezis.github.io
 baseurl: /
 disqus: 'Genesis'
+google_analytics: 'UA-198499883-1'
 email: '#'
-mailchimp-list: 'https://github.us10.list-manage.com/subscribe/post?u=145fd0db654a848f2210027e9&amp;id=9f918ad6cc'
+mailchimp-list: 'https://github.us6.list-manage.com/subscribe?u=8968330d921f8f86e879f6399&id=cbe61468cd'
 include: ["_pages"]
 permalink: /:title/
 
@@ -22,8 +23,16 @@ authors:
     prince:
       name:           prince
       site:           #
-      avatar:         assets/images/avatar.jpg
-      bio:            "Hi, I am Prince, the author of Genesis, the theme you're currently previewing. I hope you like it!"
+      avatar:         assets/images/x-logo.jpg
+      bio:            "Author of Genezis. A technical consultant with experience in computer logics, design and development."
+      email:          #
+      twitter:        https://twitter.com/prince_9210
+    
+    grim:
+      name:           grim
+      site:           #
+      avatar:         assets/images/grim.png
+      bio:            "Hi, I am grim, the author and co-founder of Genesis"
       email:          #
       twitter:        #
 
@@ -43,8 +52,8 @@ defaults:
     path: "_posts"
   values:
     layout: post
-    author: prince
-    avatar: /assets/images/avatar.jpg
+    # author: prince
+    # avatar: /assets/images/avatar.jpg
     
 # all pages
 - scope:
@@ -57,7 +66,7 @@ markdown: kramdown
 highlighter: rouge
 
 # Paginate
-paginate: 3
+paginate: 5
 
 # Exclude metadata and development time dependencies (like Grunt plugins)
 exclude: [README.markdown, package.json, grunt.js, Gruntfile.js, Gruntfile.coffee, node_modules]
