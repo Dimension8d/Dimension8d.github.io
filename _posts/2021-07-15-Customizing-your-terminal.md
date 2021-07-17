@@ -83,4 +83,4 @@ Hope you guys find this information useful for a basic customization tasks.
 See yall with another post. Peace!
 
 
-<iframe width="560" height="315" src="https://youtu.be/embed/Ogb2lnl_95A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Ogb2lnl_95A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
