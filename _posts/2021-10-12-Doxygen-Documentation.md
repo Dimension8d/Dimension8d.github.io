@@ -158,6 +158,9 @@ Demo_Code(DB_Handle *handle, Ts_msg me)
 *     \retval	 #Dia_Ts_Error
 */
 ```
-These are the major things that are mandatory to effecctively document your code. And yes, there are bunch of other features in doxygen. For instance, you can group things together in a single page/subpage, add images to your documentation and lot more like these.
+These are the major things that are mandatory to effectively document your code. And yes, there are bunch of other features in doxygen. For instance, you can group things together in a single page/subpage, add images to your documentation and lot more like these.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HqSWhu90sRc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 Hope this post has provided some useful information. Let us know if you have any queries in the comment section.
