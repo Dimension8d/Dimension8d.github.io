@@ -2,7 +2,7 @@
 layout: post
 title:  "Pickle your Python Code"
 author: grim
-categories: [Coding]
+categories: [ Python, Coding ]
 comments: True
 image: assets/images/folder.jpg
 tags: [featured]
@@ -11,7 +11,7 @@ tags: [featured]
 Pickling is one of the modules in python that helps us in serialization and de-serialization process.
 In this post, we are going to talk in detail about this module and glance on some other related modules.
 
-# What is Serialization?
+# What is Serialization ?
 
 Serialization is the process of converting the data to a linear format, which can be shared to some other instances(code) or even to some other computer via network.
 For instance, you might need to save your state of code(value of objects after execution), just like we do in Video games. Such that you can resume your code execution from the instance where you left. 
