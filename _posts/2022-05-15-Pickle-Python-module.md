@@ -120,11 +120,11 @@ Eventhough with these additional work arounds, not all python fields can be pick
 
 Unpickling of pickled objects can be easily done with `pickle.load()`, to unpickle a file, or with `pickle.loads()` to unpickle a pickled string.
 
-## Optional parameters in Unpickling:
+# Optional parameters in Unpickling:
 
 The parameters in unpickling mostly defines how to unpickle data generated from Python 2.x.
 
-If **fix_imports **is true, pickle will try to map the old Python 2 names to the new names used in Python 3.
+If **fix_imports** is true, pickle will try to map the old Python 2 names to the new names used in Python 3.
 
 The **encoding** and **errors** tell pickle how to decode 8-bit string instances pickled by Python 2; these default to ‘ASCII’ and ‘strict’, respectively. The encoding can be ‘bytes’ to read these 8-bit string instances as bytes objects. Using encoding='latin1' is required for unpickling NumPy arrays and instances of datetime, date and time pickled by Python 2.
 
