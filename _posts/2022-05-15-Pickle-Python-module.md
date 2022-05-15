@@ -4,7 +4,7 @@ title:  "Pickle your Python Code"
 author: grim
 categories: [ Python, Coding ]
 comments: True
-image: assets/images/folder.jpg
+image: assets/images/pickle/pickle.png
 tags: [featured]
 ---
 
