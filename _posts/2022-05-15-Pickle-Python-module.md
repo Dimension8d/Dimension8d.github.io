@@ -43,7 +43,7 @@ On executing of the above code, you can see the ```b'\x80\x04\x95\x18\x00\x00\x0
 
 Basically, this is what the pickling module does. With this stream of converted data, we can transmit them via a network or can be used for saving the instances of the objects. The use cases are only limited to one's coding needs . Now let's dig more about this module.
 
-Official Documentation - click [here](https://docs.python.org/3/library/pickle.html}
+Official Documentation - click [here](https://docs.python.org/3/library/pickle.html)
 
 In python, we can accomplish the serialization process in number of ways. There are three major modules, 
 
@@ -89,7 +89,7 @@ The protocol version affects the way of serialization to be done and also compat
   - *Version 2* - was introduced with Python version 2.3.
   - *Version 3* - added with Python 3.0. This is the default pickle protocol version for 
      python 3.0   3.7 versions. Also, serialization done with this protocol cannto be deserialized by Python 2.x versions.
-  - *Version 4 *- introduced with Python 3.4. Extended support for wider range of object types 
+  - *Version 4*- introduced with Python 3.4. Extended support for wider range of object types 
      for pickling. Default version from Python 3.8.
   - *Version 5* - added with Python 3.8. Added support for out-of-band data and increased speed 
      for in-band data.
@@ -98,7 +98,7 @@ The protocol version affects the way of serialization to be done and also compat
 
 **buffer_callback** - by default False. This is introduced with python 3.8 and is used when there is a need to transfer a huge serialized data.
 
-pickle.dumps() has no file parameter, as it returns a string.
+`pickle.dumps()` has no file parameter, as it returns a string.
 
 The following types can be pickled:
 
@@ -131,9 +131,17 @@ The **encoding** and **errors** tell pickle how to decode 8-bit string instances
 These are the major features of pickle module. Now let us look in short on other alternates for serialization.
 
 # Marshal 
+
+```shell
+import marshall
+```
 This is an old/ancient package. We can use this with our latest python version too. But it is not advised to do so, due to non-backward compatibiity and the fact that it is used by the interpreter to decode .pyc files. 
 
 # JSON
+
+```shell
+import json
+```
 JSON is the widely known format and the python module provides platform independent form of serialization and deserialization. Besides, we can accomplish this with XML format files too. One major difference is that JSON is human-readable format. Also when compared to pickle module, JSON is a bit slower.
 
 # **Thing to be aware of:**
