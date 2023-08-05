@@ -70,35 +70,35 @@ We saw that all the logging messages were recorded with this three segments and 
 We can modify this format to a different sequence. 
 
 ```shell
-logging.basicConfig(level = logging.INFO, format = '%(message)s - %(name)s - %(levelname)s')
-logging.warning("a warning message")
-logging.info("just a info message")
-logging.error("alert. an error message is recorded")
+   logging.basicConfig(level = logging.INFO, format = '%(message)s - %(name)s - %(levelname)s')
+   logging.warning("a warning message")
+   logging.info("just a info message")
+   logging.error("alert. an error message is recorded")
 ```
 
 Output for this code will be,
 ```shell
-a warning message - root - WARNING
-just a info message - root - INFO
-alert. an error message is recorded - root - ERROR
+   a warning message - root - WARNING
+   just a info message - root - INFO
+   alert. an error message is recorded - root - ERROR
 
-** Process exited - Return Code: 0 **
-Press Enter to exit terminal
+   ** Process exited - Return Code: 0 **
+   Press Enter to exit terminal
 ```
 
 We can take control of the format by removing certain fields or by adding certian fields. The most useful one is adding timestamp to our log trace, which makes it more meaningful.
 
 ```shell
-logging.basicConfig(format = '%(asctime)s - %(message)s', datefmt = '%d-%b-%y %H:%M:%S')
+   logging.basicConfig(format = '%(asctime)s - %(message)s', datefmt = '%d-%b-%y %H:%M:%S')
 ```
 Above modification in basicConfig method prints the logging time in the modified format,
 
 ```shell
-18-Oct-22 02:39:30 - a warning message
-18-Oct-22 02:39:30 - alert. an error message is recorded
+   18-Oct-22 02:39:30 - a warning message
+   18-Oct-22 02:39:30 - alert. an error message is recorded
 
-** Process exited - Return Code: 0 **
-Press Enter to exit terminal
+   ** Process exited - Return Code: 0 **
+   Press Enter to exit terminal
 ```
 
 - Using F-strings with logging
@@ -106,14 +106,14 @@ Press Enter to exit terminal
 We can include variables in our logging statements also. A simple demonstration is given below.
 
 ```shell
-import logging
+   import logging
 
-i = 5
-while(i<10):
-   cycle_counter = 1
-   logging.info(f"We are in the cycle - {cycle_counter} now")
-   cycle_counter = cycle_counter + 1
-   i = i+1
+   i = 5
+   while(i<10):
+      cycle_counter = 1
+      logging.info(f"We are in the cycle - {cycle_counter} now")
+      cycle_counter = cycle_counter + 1
+      i = i+1
 ```
 
 The concepts that we have covered in this post is enough to set up a logging functionality for a real time application. We will cover deeper horizons of logging module such as capturing Exceptions, working with loggers and handlers etc in our further post.
